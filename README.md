@@ -1,11 +1,5 @@
-## Hi there 👋
-
-<!--
-**Dev-KoSi/dev-kosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
-✨ “Full-Stack Developer crafting seamless digital experiences — from pixel-perfect UIs to scalable backends that power them.”
-
+ ✨ Full-Stack Developer crafting seamless digital experiences — from pixel-perfect UIs to scalable backends that power them.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kojo.sika.krampah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kojosika04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kojo-sika-842163361) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dev_kosi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devkosi1203@gmail.com) 
